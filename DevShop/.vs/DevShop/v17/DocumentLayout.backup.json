@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C8777B-AA2E-372B-AECE-B7CDB3DF6CFD}|Coletor\\Coletor.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\coletor\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C8777B-AA2E-372B-AECE-B7CDB3DF6CFD}|Coletor\\Coletor.csproj|solutionrelative:coletor\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\utils\\amazonutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\utils\\amazonutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\enum\\enumfilassns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\enum\\enumfilassns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\enum\\enumfilassqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\enum\\enumfilassqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\compartilhador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\compartilhador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C8777B-AA2E-372B-AECE-B7CDB3DF6CFD}|Coletor\\Coletor.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\coletor\\coletor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86C8777B-AA2E-372B-AECE-B7CDB3DF6CFD}|Coletor\\Coletor.csproj|solutionrelative:coletor\\coletor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\compartilhador.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\compartilhador.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\cadastrador\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|solutionrelative:cadastrador\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\cadastrador\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|solutionrelative:cadastrador\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\model\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\model\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\compartilhador\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF840A-4A20-4FB8-BF5A-E84A1BC4E8D8}|Compartilhador\\Compartilhador.csproj|solutionrelative:compartilhador\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|c:\\users\\gabriel\\source\\repos\\devshop\\cadastrador\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01AF8F9-9340-56A4-643D-4743EC5247E8}|Cadastrador\\Cadastrador.csproj|solutionrelative:cadastrador\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumFilasSNS.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Enum\\EnumFilasSNS.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Enum\\EnumFilasSNS.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Enum\\EnumFilasSNS.cs",
+              "RelativeToolTip": "Compartilhador\\Enum\\EnumFilasSNS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:38:02.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnumFilasSQS.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Enum\\EnumFilasSQS.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Enum\\EnumFilasSQS.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Enum\\EnumFilasSQS.cs",
+              "RelativeToolTip": "Compartilhador\\Enum\\EnumFilasSQS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:37:32.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coletor.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Coletor\\Coletor.csproj",
+              "RelativeDocumentMoniker": "Coletor\\Coletor.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Coletor\\Coletor.csproj",
+              "RelativeToolTip": "Coletor\\Coletor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T22:49:08.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compartilhador",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Compartilhador.csproj",
+              "RelativeDocumentMoniker": "Compartilhador\\Compartilhador.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Compartilhador.csproj",
+              "RelativeToolTip": "Compartilhador\\Compartilhador.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T22:48:54.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Coletor\\Function.cs",
+              "RelativeDocumentMoniker": "Coletor\\Function.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Coletor\\Function.cs",
+              "RelativeToolTip": "Coletor\\Function.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:47:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compartilhador.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Compartilhador.csproj",
+              "RelativeDocumentMoniker": "Compartilhador\\Compartilhador.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Compartilhador.csproj",
+              "RelativeToolTip": "Compartilhador\\Compartilhador.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T22:34:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Cadastrador\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Cadastrador\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:30:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Cadastrador\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Cadastrador\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:29:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmazonUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Utils\\AmazonUtil.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Utils\\AmazonUtil.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Utils\\AmazonUtil.cs",
+              "RelativeToolTip": "Compartilhador\\Utils\\AmazonUtil.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:24:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Produto.cs",
+              "RelativeToolTip": "Compartilhador\\Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:22:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Pedido.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Model\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Pedido.cs",
+              "RelativeToolTip": "Compartilhador\\Model\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:19:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Model\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Pagamento.cs",
+              "RelativeToolTip": "Compartilhador\\Model\\Pagamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:19:41.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Compartilhador\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Compartilhador\\Model\\Cliente.cs",
+              "RelativeToolTip": "Compartilhador\\Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:19:36.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Startup.cs",
+              "RelativeDocumentMoniker": "Cadastrador\\Startup.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\DevShop\\Cadastrador\\Startup.cs",
+              "RelativeToolTip": "Cadastrador\\Startup.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:15:01.111Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

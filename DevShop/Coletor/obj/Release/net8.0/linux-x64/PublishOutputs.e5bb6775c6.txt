@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Coletor.deps.json
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Coletor.runtimeconfig.json
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Coletor.pdb
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Compartilhador.pdb
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\AWSSDK.SQS.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Compartilhador.dll
+C:\Users\Gabriel\source\repos\DevShop\Coletor\bin\Release\net8.0\publish\Coletor.dll

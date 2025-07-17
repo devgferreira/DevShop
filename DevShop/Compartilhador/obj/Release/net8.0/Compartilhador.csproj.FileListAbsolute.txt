@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\bin\Release\net8.0\Compartilhador.deps.json
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\bin\Release\net8.0\Compartilhador.runtimeconfig.json
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\bin\Release\net8.0\Compartilhador.dll
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\bin\Release\net8.0\Compartilhador.pdb
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.dll
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\refint\Compartilhador.dll
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.pdb
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\Compartilhador.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\DevShop\Compartilhador\obj\Release\net8.0\ref\Compartilhador.dll
