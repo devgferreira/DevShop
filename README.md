@@ -85,9 +85,9 @@ A comunicação entre os diferentes serviços do sistema é realizada de forma a
 
 ## Json de exemplos:
 
-Link do arquivo de exemplo do pedido: [link](https://github.com/devgferreira/challenger-compass-3/blob/main/challenger-compass-3.postman_collection.json)
+Link do arquivo de exemplo do pedido: [pedido](https://github.com/devgferreira/DevShop/blob/main/DevShop/pedido-examplo.json)
 
-Link do arquivo de exemplo do estoque: [link](https://github.com/devgferreira/challenger-compass-3/blob/main/challenger-compass-3.postman_collection.json)
+Link do arquivo de exemplo do estoque: [estoque](https://github.com/devgferreira/DevShop/blob/main/DevShop/estoque-exemplo.json)
 
 ---
 
